@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryTravel.Common", "Lib
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryTravel.API", "..\LibraryTravel.API\LibraryTravel.API.csproj", "{9804A5A6-FA96-4ABD-8530-24FFB7AFF254}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryTravel.Web", "LibraryTravel.Web\LibraryTravel.Web.csproj", "{8401140B-9E37-4107-9320-E786A944B3B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9804A5A6-FA96-4ABD-8530-24FFB7AFF254}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9804A5A6-FA96-4ABD-8530-24FFB7AFF254}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9804A5A6-FA96-4ABD-8530-24FFB7AFF254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8401140B-9E37-4107-9320-E786A944B3B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8401140B-9E37-4107-9320-E786A944B3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8401140B-9E37-4107-9320-E786A944B3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8401140B-9E37-4107-9320-E786A944B3B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
